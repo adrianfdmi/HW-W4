@@ -1,6 +1,5 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
-var capitalYes = "";
 
 // Write password to the #password input
 
